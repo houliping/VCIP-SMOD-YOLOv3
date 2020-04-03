@@ -1,0 +1,6 @@
+classes=7
+train=/home/user/xyh/yolov3f/coco/train7.txt
+valid=/home/user/xyh/yolov3f/coco/val7.txt
+names=data/remote.names
+backup=backup/
+eval=coco
